@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Simple HTML Page</title>
+</head>
+<body>
+    <!-- Main heading -->
+    <h1>Welcome to My Personal Web Page</h1>
+    
+    <!-- Subheading -->
+    <h2>About Me</h2>
+    <p>Hi, I am a student learning web development. This is my first HTML page.</p>
+    
+    <!-- Adding a line break -->
+    <p>I enjoy learning new programming languages.<br> I also like solving coding challenges.</p>
+    
+    <!-- Horizontal line to separate content -->
+    <hr>
+    
+    <!-- Another subheading -->
+    <h2>My Interests</h2>
+    <p>I have a keen interest in technology, music, and sports. I enjoy reading about the latest tech trends and playing the guitar in my free time.</p>
+    
+    <!-- Another horizontal line -->
+    <hr>
+    
+    <!-- Conclusion paragraph -->
+    <p>Thank you for visiting my webpage. Stay tuned for more updates!</p>
+</body>
+</html>
